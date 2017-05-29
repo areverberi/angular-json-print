@@ -5,6 +5,7 @@
     "type" : "git",
     "url" : "http://github.com/ketilovre/angular-json-print.git"
   },
+  "main":"src/json-print.js",
   "scripts": {
     "test": "grunt"
   },
